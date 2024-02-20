@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aurelisa.sindhu@gmail.com**
 
-- ⚡ Fun fact **I made 30+ website in 2 days**
+- ⚡ Fun fact **I have a twin with a very similar name, but we are not identical**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
