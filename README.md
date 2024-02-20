@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aurelisa!</h1>
-<h3 align="center">A passionate frontend developer fond to explore new technologies. Welcome to my corner of the GitHub universe! 🚀</h3>
+<h3 align="center">A passionate developer brave enough to explore new technologies. Welcome to my corner of the GitHub universe! 🚀</h3>
 
 - 🔭 I’m currently working on **developing a game (TBA)**
 
