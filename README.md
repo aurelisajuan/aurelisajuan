@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **job hunting and to develop my skills**
 
-- 👨‍💻 Know more about me through [https://aurelisajuan.github.io/personal-website/](https://aurelisajuan.github.io/personal-website/)]
+- 👨‍💻 Know more about me through [https://aurelisajuan.github.io/personal-website/](https://aurelisajuan.github.io/personal-website/)
 
 - 📫 How to reach me **aurelisa.sindhu@gmail.com**
 
