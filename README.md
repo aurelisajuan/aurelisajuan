@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aurelisa!</h1>
 <h3 align="center">A passionate developer brave enough to explore new technologies. Welcome to my corner of the GitHub universe! 🚀</h3>
 
-- 🔭 I’m currently working on **developing a game (TBA)**
+- 🔭 I’m currently working on **Toastology**, Toastology is out now, so go check it out! [https://bit.ly/toastology]
 
 - 🌱 I’m currently learning **C++, JavaScript, Python, HTML**
 
