@@ -1,11 +1,9 @@
-<h1 align="center">Hello 👋, I'm Aurelisa!</h1>
-<h3 align="center">A passionate developer brave enough to explore new technologies. Welcome to my corner of the GitHub universe! 🚀</h3>
+<h1 align="center"> 你好 👋, I'm Aurelisa!</h1>
+<h3 align="center">A passionate developer who enjoys learning new languages. Welcome to my corner of the GitHub universe! 🚀</h3>
 
 - 🔭 I’m currently working on **Toastology**, Toastology is out now, so go check it out! [https://bit.ly/toastology]
 
-- 🌱 I’m currently learning **C++, JavaScript, Python, HTML**
-
-- 👯 I’m looking to collaborate on **doing projects together to put in my resume and joining competitions**
+- 🌱 I’m currently learning **C++, JavaScript, Python**
 
 - 🤝 I’m looking for help with **job hunting and to develop my skills**
 
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **aurelisa.sindhu@gmail.com**
 
-- ⚡ Fun fact **I have a twin with a very similar name, but we are not identical**
+- ⚡ Fun fact **WeCracked the code (iiykyk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
