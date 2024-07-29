@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aurelisa.sindhu@gmail.com**
 
-- ⚡ Fun fact **WeCracked the code (iiykyk)**
+- ⚡ Fun fact **WeCracked the code (iykyk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
