@@ -1,7 +1,7 @@
-<h1 align="center">你好 👋, I'm Aurelisa!</h1>
+<h1 align="center">Hi there 👋, I'm Aurelisa!</h1>
 <h3 align="center">A passionate developer who enjoys learning new languages. Welcome to my corner of the GitHub universe! 🚀</h3>
 
-# ✨About Moi:
+# ✨About Me:
 - 🔭 **Toastology** is out now, so go check it out! [https://bit.ly/toastology]
 - 🌱 I’m currently delving deeper on **C++, JavaScript, Python**
 - 🤝 I’m looking for **collaborations on any projects**
