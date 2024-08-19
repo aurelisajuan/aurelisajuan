@@ -26,6 +26,6 @@
 | **Design**        | ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 # 📊 GitHub Stats:
-![]![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)<br/>
-![]![aurelisajuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelisajuan&theme=merko&hide_border=false)<br/>
-![]![aurelisajuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)<br/>
+![aurelisajuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelisajuan&theme=merko&hide_border=false)<br/>
+![aurelisajuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&layout=compact)
