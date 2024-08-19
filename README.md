@@ -5,7 +5,7 @@
 - 🔭 **Toastology** is out now, so go check it out! [https://bit.ly/toastology]
 - 🌱 I’m currently delving deeper on **C++, JavaScript, Python**
 - 🤝 I’m looking for **collaborations on any projects**
-- ⚡ Fun fact **WeCracked the code (iykyk)**
+- (*/ω＼*) **animal lover**
 
 # 🤳Connect With Me:
 <p align="left">
