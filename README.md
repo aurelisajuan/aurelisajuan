@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Aurelisa!</h1>
+#Hi there 👋, I'm Aurelisa!
 <h3 align="center">A passionate developer who enjoys learning new languages. Welcome to my corner of the GitHub universe! 🚀</h3>
 
 # ✨About Me:
