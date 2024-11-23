@@ -29,3 +29,9 @@
 ![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)<br/>
 ![aurelisajuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelisajuan&theme=merko&hide_border=false)<br/>
 ![aurelisajuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+
+![snake gif](https://github.com/aurelisajuan/aurelisajuan/blob/output/github-contribution-grid-snake.gif)
+
+
+
