@@ -1,6 +1,6 @@
 # Hello, I'm Lisa!👋
 
-![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)![aurelisajuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelisajuan&theme=merko&hide_border=false)
+![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
 ### My Experiences
 - 🔭 **Toastology** is out now, so go check it out! [https://bit.ly/toastology]
@@ -27,6 +27,8 @@
 | **Design**        | ![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
 
 ![snake gif](https://github.com/aurelisajuan/aurelisajuan/blob/output/snake.svg)
+
+![aurelisajuan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aurelisajuan&theme=merko&hide_border=false)
 
 
 
