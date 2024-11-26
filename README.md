@@ -1,4 +1,4 @@
-# Hello, I'm Lisa!👋
+# Hello, I'm Lisa ✮⋆˙
 
 ![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)
 
