@@ -1,7 +1,5 @@
 # Hello, I'm Lisa ✮⋆˙
 
-![aurelisajuan's Stats](https://github-readme-stats.vercel.app/api?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&count_private=true)
-
 ### My Experiences
 - 🔭 **Toastology** is out now, so go check it out! [https://bit.ly/toastology]
 - (*/ω＼*) I'm an **animal lover**!!!
