@@ -1,7 +1,7 @@
 # Hello, I'm Lisa ✮⋆˙
 
 ### My Experiences
-- 🔭 **Toastology** is out now, so go check it out! [https://bit.ly/toastology]
+- 🔭 **[Toastology](https://bit.ly/toastology)** is out now, so go check it out!
 - (*/ω＼*) I'm an **animal lover**!!!
 
 ![aurelisajuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&layout=compact)
