@@ -10,7 +10,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/aurelisa-sindhunirmala" target="_blank">LinkedIn</a> |
   <a href="https://instagram.com/aurelisajuan" target="_blank">Instagram</a> |
-  <a href="https://www.youtube.com/c/aurelisajuan" target="_blank">YouTube</a>
+  <a href="https://www.youtube.com/@aurelisajuan" target="_blank">YouTube</a>
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=aurelisajuan&label=Let's%20Chat!&color=3&icon=7&pretty=true)](https://visitcount.itsvg.in)
