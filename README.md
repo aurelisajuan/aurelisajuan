@@ -1,12 +1,21 @@
-# Hello, I'm Lisa ✮⋆˙
+**Aurelisa Juan**<br/>
+[oh'ruh'LEE'sa jwan]&nbsp;&nbsp;&nbsp;&nbsp;***developer***
 
-### My Experiences
+###
+
+>A curious coder fueled by puzzles and late-night builds.
+
+**some more tea...**
+- fluent in matcha, currently speaking Assembly.
+- hackathon enthusiast with 7 wins and counting.
+
+
+
 - 🔭 **[Toastology](https://bit.ly/toastology)** is out now, so go check it out!
-- (*/ω＼*) I'm an **animal lover**!!!
 
 ![aurelisajuan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelisajuan&theme=merko&show_icons=true&hide_border=false&layout=compact)
 
-### Let's Socialize!
+### get to know me more!
 <p align="left">
   <a href="https://linkedin.com/in/aurelisa-sindhunirmala" target="_blank">LinkedIn</a> |
   <a href="https://instagram.com/aurelisajuan" target="_blank">Instagram</a> |
