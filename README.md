@@ -1,8 +1,6 @@
 **Aurelisa Juan**<br/>
 [oh'ruh'LEE'sa jwan]&nbsp;&nbsp;&nbsp;&nbsp;***developer***
 
----
-
 *definition*: A curious coder fueled by puzzles and late-night builds. 
 
 ***some more tea...***
