@@ -5,7 +5,7 @@
 
 ***some more tea...***
 - fluent in matcha, currently speaking <ins>Assembly</ins>.
-- hackathon enthusiast with <ins>7 wins</ins> and counting.
+- hackathon enthusiast with <ins>8 wins</ins> and counting.
 
 <p align="left">
   <a href="https://linkedin.com/in/aurelisa-sindhunirmala" target="_blank">LinkedIn</a> |
